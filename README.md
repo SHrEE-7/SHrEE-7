@@ -9,5 +9,3 @@
   </a>
 
 
-## Recent GitHub Activity 🔥
-<a><img alt="Shree's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SHrEE-7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height=250 width=820 /></a>
